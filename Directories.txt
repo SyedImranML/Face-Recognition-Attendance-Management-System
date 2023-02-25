@@ -1,0 +1,17 @@
+
+
+C:/Users/hp/PycharmProjects/Attendance_management_system/Attendance/Manually Attendance
+
+C:\Users\hp\PycharmProjects\Attendance_management_system\Attendance\Manually Attendance
+
+C:/Users/hp/PycharmProjects/Attendance_management_system
+
+C:\Users\hp\PycharmProjects\Attendance_management_system\Attendance
+
+C:/Users/hp/PycharmProjects/Attendance_management_system/Attendance/StudentDetails/StudentDetails.csv
+
+pip install opencv-contrib-python --upgrade
+if gives error then
+write
+pip install opencv-contrib-python --user
+it will work fine for cv2.face.LBPHFaceRecognizer_create();
