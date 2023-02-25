@@ -41,10 +41,19 @@ Run AMS_Run.py.
 
 # Screenshots
 # Basic UI
-![image](https://user-images.githubusercontent.com/87268584/221363744-f1a9ec6b-2c3b-4da0-b135-48f26381d613.png)
-![Take Image](https://user-images.githubusercontent.com/87268584/221363799-6094dbcd-51b2-4004-ad0e-5ae1fd8f438e.png)
 
-![trainned](https://user-images.githubusercontent.com/87268584/221363841-11883bff-08fa-4125-bc09-fa716c632ab8.png)
+![image](https://user-images.githubusercontent.com/87268584/221373654-b59471c8-38eb-437e-8219-280715da1286.png)
+
+
+![image](https://user-images.githubusercontent.com/87268584/221373690-593d7b54-7083-4d68-8a51-4d70f7076ecb.png)
+
+![image](https://user-images.githubusercontent.com/87268584/221373773-dccd9477-e818-47df-af14-21f60d47215a.png)
+
+
+![image](https://user-images.githubusercontent.com/87268584/221373811-3faf8b7f-224e-4c98-bbb2-57646f59591f.png)
+
+![image](https://user-images.githubusercontent.com/87268584/221373865-7fd3855d-6dec-4d4d-bde3-d0759a9afb50.png)
+
 
 
 # When it Recognises me
@@ -52,17 +61,19 @@ Run AMS_Run.py.
 ![Automatic](https://user-images.githubusercontent.com/87268584/221363846-f8bb4d7a-e454-4c79-8597-11ffee154c8f.png)
 
 # While filling automatic attendance
+
 ![Attendance](https://user-images.githubusercontent.com/87268584/221363933-a3eddceb-7ced-4f59-bce7-9705870d4922.png)
 
 
 # Notes
+
 It will require high processing power(I have 8 GB RAM)
 Noisy image can reduce the accuracy, so quality of images should be good.
 
 * if gives error then
-write
-pip install opencv-contrib-python --user
-it will work fine for cv2.face.LBPHFaceRecognizer_create();
+  write
+  pip install opencv-contrib-python --user
+  it will work fine for cv2.face.LBPHFaceRecognizer_create();
 
 
 
