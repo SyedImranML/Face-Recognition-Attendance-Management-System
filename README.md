@@ -3,10 +3,14 @@ Face-Recognition-Attendance-Management-System
 
 ![87268584](https://user-images.githubusercontent.com/87268584/221363578-84e7769c-fca3-47a2-991b-05776fcd52c7.jpg)
 
-# Code Requirements
+Code Requirements
+
 Opencv(pip install opencv-python)
+
 Tkinter(Available in python)
+
 PIL (pip install Pillow)
+
 Pandas(pip install pandas)
 
 # What steps you have to follow??
