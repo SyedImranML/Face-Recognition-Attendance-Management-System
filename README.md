@@ -1,7 +1,8 @@
 # Face-Recognition-Attendance-Management-System
 Face-Recognition-Attendance-Management-System
 
-![image](https://user-images.githubusercontent.com/87268584/221372975-fa3afa38-da9a-4ec2-ba63-a26f45e89c8e.png)
+![image](https://user-images.githubusercontent.com/87268584/221373085-0fa8e345-ad2b-440f-b3d6-806641998838.png)
+
 
 
 #### Code Requirements
