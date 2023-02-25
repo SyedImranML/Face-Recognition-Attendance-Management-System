@@ -1,7 +1,8 @@
 # Face-Recognition-Attendance-Management-System
 Face-Recognition-Attendance-Management-System
 
-![87268584](https://user-images.githubusercontent.com/87268584/221363578-84e7769c-fca3-47a2-991b-05776fcd52c7.jpg)
+![image](https://user-images.githubusercontent.com/87268584/221372975-fa3afa38-da9a-4ec2-ba63-a26f45e89c8e.png)
+
 
 #### Code Requirements
 
@@ -12,6 +13,9 @@ Tkinter(Available in python)
 PIL (pip install Pillow)
 
 Pandas(pip install pandas)
+
+pip install opencv-contrib-python --upgrade
+
 
 #### What steps you have to follow??
 
@@ -54,6 +58,10 @@ Run AMS_Run.py.
 It will require high processing power(I have 8 GB RAM)
 Noisy image can reduce the accuracy, so quality of images should be good.
 
+* if gives error then
+write
+pip install opencv-contrib-python --user
+it will work fine for cv2.face.LBPHFaceRecognizer_create();
 
 
 
