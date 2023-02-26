@@ -78,5 +78,4 @@ Noisy image can reduce the accuracy, so quality of images should be good.
 
 
 
-#When it Recognises me
-![Uploading Automatic.png…]()
+
